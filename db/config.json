@@ -1,0 +1,8 @@
+{
+	"server_name":"Name",
+	"discord_url":"link?",
+	"web_url":"link?",
+	"port": 53181,
+	"secret_standopowah":false,
+	"deposit_world":"<NOT YET>"
+}
